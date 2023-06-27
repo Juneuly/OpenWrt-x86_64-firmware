@@ -14,3 +14,4 @@
 # sed -i 's/192.168.3.88/192.168.50.5/g' package/base-files/files/bin/config_generate
 # git clone https://github.com/vernesong/OpenClash
 # cp -r OpenClash/luci-app-openclash package
+git clone https://github.com/vernesong/OpenClash.git package/OpenClash
