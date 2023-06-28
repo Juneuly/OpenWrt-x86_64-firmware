@@ -15,3 +15,4 @@
 # git clone https://github.com/vernesong/OpenClash
 # cp -r OpenClash/luci-app-openclash package
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
